@@ -1,0 +1,6 @@
+oqs==0.9.1          # Kyber & Dilithium via liboqs
+cryptography==41.0.3
+numpy
+pytest
+pytest-timeout
+qiskit==2.2.3       # latest stable version
